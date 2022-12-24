@@ -1,0 +1,9 @@
+.photo{
+    width: 200px;
+    height: 200px;
+    border: none;
+    margin: 10px;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+}
